@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Bhoomika S Aralikatii<br><br>### 💻 About Me<br><br>* 🌍 Based in India<br>* 🤖 Currently learning **Artificial Intelligence**<br>* 🐍 Passionate about **Python & Programming**<br><br>### 💬 Ask Me About<br><br>* Programming<br>* Python Development<br>* AI<br><br>### 📫 Contact Me<br><br>* 📧 [aralikattbhoomika@gmail.com](mailto:aralikattbhoomika@gmail.com)<br>
+
+ 👋 Hi, I'm Bhoomika S Aralikatii<br><br> 💻 About Me<br><br>* 🌍 Based in India<br>* 🤖 Currently learning **Artificial Intelligence**<br>* 🐍 Passionate about **Python & Programming**<br><br>### 💬 Ask Me About<br><br>* Programming<br>* Python Development<br>* AI<br><br>### 📫 Contact Me<br><br>* 📧 [aralikattbhoomika@gmail.com](mailto:aralikattbhoomika@gmail.com)<br>
 
 
 ## 🌐 Socials:
